@@ -1,0 +1,4 @@
+This text was been added by participant A and added some text
+This is a new branch
+git config --global user.name "Your Name"
+git config --global user.email "yourname@example.com"
