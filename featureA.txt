@@ -1,2 +1,2 @@
-This text was been added by participant A
+This text was been added by participant B
 This is a new branch
