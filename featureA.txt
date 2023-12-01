@@ -2,3 +2,5 @@ This text was been added by participant A and this part was edited and added by 
 This is a new branch
 git config --global user.name "Your Name"
 git config --global user.email "yourname@example.com"
+i added some text
+
